@@ -25,9 +25,6 @@ Files:
     query.json               - The Elasticsearch bool query (just the "bool" block).
     fields.txt               - One field name per line. If empty/missing, all fields returned.
     es_clusters_config.json  - Cluster connection config (same format as es_role_auto_update).
-
-Author : Olamide Olajide
-Created: 2026-03-25
 """
 
 import argparse
