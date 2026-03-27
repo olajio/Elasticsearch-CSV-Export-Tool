@@ -1,6 +1,0 @@
-# Fields to export (one per line)
-# Lines starting with # are comments.
-# If this file is empty or missing, ALL fields are returned.
-@timestamp
-message
-user.name
